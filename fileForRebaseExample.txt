@@ -1,4 +1,8 @@
 rebase123
+
 edit file 
 edit file in master branch(-)
 add new row in master branch 
+
+my version in master branch
+
